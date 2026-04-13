@@ -25,7 +25,7 @@ A job search web app built with HTML, CSS, and JavaScript using a public jobs AP
 
 ## Live Demo
 
-Add your deployed link here
+https://kkato0219.github.io/job-finder-app/
 
 ## What I Learned
 
